@@ -77,3 +77,9 @@ DerivedDataCache/*
 # Plugin build artifacts
 Plugins/LeashMathLibrary/Binaries/
 Plugins/LeashMathLibrary/Intermediate/
+
+# Vendor content - installed via Epic Launcher, not tracked
+Content/TwinmotionMaterials/
+
+# Developer scratch folders
+Content/Developers/
